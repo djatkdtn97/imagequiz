@@ -2,13 +2,15 @@
   "name": "imagequiz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://djatkdtn97.github.io/imagequiz",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "bootstrap": "^5.1.3",
     "react": "^17.0.2",
+    "react-bootstrap": "^2.0.3",
     "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
@@ -40,5 +42,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  }
+  },
+  "homepage": "http://djatkdtn97.github.io/imagequiz"
 }
