@@ -23,7 +23,7 @@ function App() {
     <div>
       <Container>
       <Row>
-        <Col>This is my header.</Col>
+        <Col>Welcome to Imagequiz</Col>
       </Row>
       <Row>
         <Col><Menu isAuthenticated={isAuthenticated}/></Col>
@@ -43,7 +43,7 @@ function App() {
           </Route>
         </Switch>
         <Row>
-          <Col>Footer</Col>
+          <Col>Published by Brian Um</Col>
         </Row>
       </Container>
       </div>
